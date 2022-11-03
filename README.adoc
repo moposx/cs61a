@@ -1,0 +1,49 @@
+= CS61λ Fall 2020 stuff
+
+NOTE: Some of the optional / extra problems are skipped. NOT all of the problems are solved on my own.
+
+== Environment
+
+* Python 3
+
+* VS Code (recommended)
+
+* PyCharm (optional)
+
+== Tools & Resources:
+
+* https://inst.eecs.berkeley.edu/~cs61a/fa20 (Course schedule, videos, slides etc.)
+
+* https://composingprograms.com/ (textbook)
+
+* https://pythontutor.com/ (Visualize the execution of Python code)
+
+
+== Problems I've encountered
+
+* Append the`--local` flag when running the OK autograder in order to use the OK autograder offline.
+
+* If VS Code failed to provide code completions, try the type annotation.
+
+* VSCode may not recognize Python's `match` syntax even if the latest Python release is used. Try switching LSP servers to Pylance or try installing the "Magic Python" extension from VS Code marketplace, or consider switching to PyCharm.
+
+* VSCode's Python formatter may break the original lines (lines may be wrapped), so create some configuration or change the default formatter to circumvent the problem.
+
+== What I've acquired from the course
+
+* Promoted understanding of recursion
+
+* Basic knowledge about functional programming
+
+* Debugging skills
+
+* Improved ability to analyze and solve real-world problems
+
+* Ways of writing code caring about performance, readability and compactness
+
+* A taste of Lisp (well actually Scheme)'s syntax and its homoiconicity
+
+
+== Useful Resource
+
+* https://github.com/tommyfan34/cs61a[Tommy Fan's solution code]. Helped me to work out solutions to some of the problems.
